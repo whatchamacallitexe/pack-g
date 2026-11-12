@@ -1,1 +1,1 @@
-
+FILE bitcoin-clicker: https://raw.githubusercontent.com/julianYaman/bitcoin-clicker/master/images/bitcoin-8bit.png -> ../_shared/83b13ca4f9b0-bitcoin-8bit.png
